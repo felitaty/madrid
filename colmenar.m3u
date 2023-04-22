@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/felitaty/madrid/main/colmenar.m3u"
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" tvg-id="LALIGATV BAR", LaLiga Tv Bar 1080
+#EXTINF:-1 tvg-logo="https://s.tmimgcdn.com/scr/1200x750/314400/vector-de-simbolos-de-logotipo-de-cuerno-de-toro-v10_314436-original.jpg" tvg-id="CUERNOS", CUERNOS
 acestream://01b333b9369c662775902638ef8cffac346a0f61
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" tvg-id="LALIGATV BAR", LaLiga Tv Bar 720
-acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" tvg-id="RM 1080", Real Madrid TV 1080
+acestream://0ec3f3786318acd8dca2588f74c3759cda76cd11
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" tvg-id="RM 720", Real Madrid TV 720
+acestream://0827cf7d290967985892965c6e61244a479d6dcd
