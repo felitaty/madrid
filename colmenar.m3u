@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/felitaty/madrid/main/colmenar.m3u"
 
-#EXTINF:-1 tvg-logo="https://s.tmimgcdn.com/scr/1200x750/314400/vector-de-simbolos-de-logotipo-de-cuerno-de-toro-v10_314436-original.jpg" tvg-id="Mundo Vaca 27 Abril", Mundo Vaca 27 Abril
-acestream://a11e904c0b74872c1275c9bf556049c4b54eb6b2
+#EXTINF:-1 tvg-logo="https://s.tmimgcdn.com/scr/1200x750/314400/vector-de-simbolos-de-logotipo-de-cuerno-de-toro-v10_314436-original.jpg" tvg-id="Mundo Vaca 28 Abril", Mundo Vaca 28 Abril
+acestream://350e84f85b1b87d4b0659d09b0155de11f886c43
 #EXTINF:-1 tvg-logo="https://s.tmimgcdn.com/scr/1200x750/314400/vector-de-simbolos-de-logotipo-de-cuerno-de-toro-v10_314436-original.jpg" tvg-id="2 Mundo Vaca 24 Abril", 2 Mundo Vaca 24 Abril
 acestream://77992690ee3a7781ad49b696af660d88aaeb46d2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" tvg-id="RM 1080", Real Madrid TV 1080
